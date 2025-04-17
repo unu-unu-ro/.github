@@ -1,3 +1,5 @@
+![Logo Unu Unu](https://github.com/unu-unu-ro/.github/blob/main/profile/logo_primary.jpg "Biserica Unu Unu")
+
 # Proiecte Biserica Unu-Unu
 
 Acest repository GitHub este dedicat dezvoltării și stocării site-urilor, aplicațiilor și altor resurse digitale folosite de **Biserica Unu-Unu** din Cluj-Napoca. 
