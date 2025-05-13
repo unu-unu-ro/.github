@@ -15,10 +15,13 @@ Aici vei găsi:
 
 ## Legături utile
 
-- 🌐 Site oficial: [unu-unu.ro](https://www.unu-unu.ro)
-- ▶️ YouTube: [@Unu-unuRo](https://www.youtube.com/@Unu-unuRo)
-- 📸 Instagram: [@bisericaunuunu](http://instagram.com/bisericaunuunu)
-- 👍 Facebook: [fb.com/unu.unu.ro](https://facebook.com/unu.unu.ro/)
+[![Live](https://img.shields.io/badge/Site-unu--unu.ro-brightgreen?style=for-the-badge)](https://www.unu-unu.ro)
+
+[![Live](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Unu-unuRo)
+
+[![Live](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](http://instagram.com/bisericaunuunu)
+
+[![Live](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/unu.unu.ro/)
 
 ---
 
